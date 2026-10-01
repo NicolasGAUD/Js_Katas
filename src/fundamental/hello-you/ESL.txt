@@ -1,0 +1,8 @@
+/* ENTRÉE   : une chaine de caractères (nom)
+SORTIE   : une phrase selon la chaine passée en argument
+LOGIQUE  : 
+	- Si nom est vide ou null ou undefined	
+			afficher "Hello World !"
+	- Sinon
+			afficher "Hello " + nom
+*/

@@ -1,0 +1,6 @@
+/* ENTRÉE   : une string avec nom et prénom
+SORTIE   : Les initiales des noms et prénoms
+LOGIQUE  : 
+	Conversion en tableau en splittant sur " "
+	Parcourir le tableau et ajouter dans un tableau vide les initiales de chaque éléments du tableau.
+*/

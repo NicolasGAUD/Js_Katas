@@ -1,0 +1,5 @@
+/* ENTRÉE   : un tableau de nombres
+SORTIE   : la somme des valeurs impair
+LOGIQUE  : 
+	If the array is empty or null, return zero.
+*/

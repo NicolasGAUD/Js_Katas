@@ -1,0 +1,9 @@
+/* ENTRÉE   : un tableau de noms
+SORTIE   : une phrase
+LOGIQUE  : 
+	- Si le tableau est vide ou null
+		return "Be the first to like this"
+	* ["Cartman"] return "Cartman likes this"
+	* ["Kenny", "Cartman"] return "Kenny and Cartman like this"
+	* ["Stan", "Kyle", "Kenny", "Cartman"] return "Stan and 3 other people like this"
+*/

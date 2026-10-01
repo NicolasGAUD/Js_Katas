@@ -1,0 +1,10 @@
+/* ENTRÉE   : deux nombres
+SORTIE   : un nombre ou NaN 
+LOGIQUE  : 
+	- Si l'un des 2 arguments n'est pas de type number ou s'il manque un ou plus args	
+		return NaN
+	- Sinon si arg2 === 0
+		return 1	
+	- Sinon 
+		return arg1 ** arg2
+*/

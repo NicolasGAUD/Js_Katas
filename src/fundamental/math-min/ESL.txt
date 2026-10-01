@@ -1,0 +1,12 @@
+/* ENTRÉE   : deux nombres
+SORTIE   : un nombre ou NaN 
+LOGIQUE  : 
+	- Si l'un des 2 arguments n'est pas de type number ou s'il manque un ou plus args	
+		return NaN
+	- Sinon si arg1 < arg2
+		return arg1	
+	- Sinon si arg1 > arg2
+		return arg2
+	- Sinon si arg1 === arg2
+		return arg1
+*/

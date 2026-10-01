@@ -1,0 +1,8 @@
+/* ENTRÉE   : un nombre entier
+SORTIE   : une phrase selon le nombre entré en paramètre
+LOGIQUE  : 
+	- Si nombre % 3 == 0 alors ecrire "Fizz"
+	- Sinon si nombre % 5 == 0 alors ecrire "Buzz"
+	- Sinon si nombre % 5 == 0 && nombre % 3 == 0 alors ecrire "FizzBuzz"
+	- Sinon ecrire stringValueof(nombre)
+*/

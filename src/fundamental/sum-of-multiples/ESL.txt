@@ -1,0 +1,9 @@
+/* ENTRÉE   : un nombre
+SORTIE   : un nombre ou NaN 
+LOGIQUE  : 
+	- Si l'argument n'est pas de type number ou s'il manque	
+		return NaN
+	- Sinon parcourir dans une boucle for et vérifier pour chq valeur si c'est un multiple de 3 ou de 5
+		si oui, ajouter la valeur dans la variable somme.
+		return somme
+*/

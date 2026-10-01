@@ -1,0 +1,8 @@
+/* ENTRÉE   : un tableau de nombre
+SORTIE   : un nombre ou null
+LOGIQUE  : 
+	- Si le tableau est vide ou null
+		return tableau vide
+	- Sinon parcourir le tableau dans une boucle for
+		tableau[i] = -tableau[i];
+*/

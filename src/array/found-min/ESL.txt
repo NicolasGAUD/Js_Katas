@@ -1,0 +1,8 @@
+/* ENTRÉE   : un tableau de nombres
+SORTIE   : un nombre ou null
+LOGIQUE  : 
+	- Si le tableau est vide ou null
+		return null
+	- Sinon parcourir le tableau dans une boucle for pour trier les valeurs pas ordre croissant.
+		return tableau[0] (1ère valeur du tableau, donc, la plus petite.
+*/
